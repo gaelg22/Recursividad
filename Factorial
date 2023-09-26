@@ -8,4 +8,4 @@ def fac(n):
     
 n = int(input("Ingresa el número de índice para calcular el Factorial "))
 resultado = fac(n)
-print(f"El factorialde {n} es: {resultado}")
+print(f"El factorial {n} es: {resultado}")
